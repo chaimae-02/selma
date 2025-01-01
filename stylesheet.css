@@ -12,7 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #FFDAB9;
+	background-color: #8478ceb9;
 	
 }
 .peach-after {
@@ -25,90 +25,90 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #8478ceb9  ;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color:   #8478ceb9 ;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #8478ceb9;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #8478ceb9;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #8478ceb9;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #8478ceb9;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #8478ceb9;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #8478ceb9;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #8478ceb9;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #8478ceb9;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color:#8478ceb9;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color:#8478ceb9;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #8478ceb9;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #8478ceb9;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #8478ceb9;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #8478ceb9;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #8478ceb9;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #8478ceb9;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #8478ceb9;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #8478ceb9;
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #8478ceb9;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #8478ceb9;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color:#8478ceb9;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #8478ceb9;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #8478ceb9;
 	}
 }
 
@@ -1268,14 +1268,14 @@ audio {
 	margin-top: 50px;
 }
 .message {
-	margin-top: 200px;
+	margin-top: 0px;
 	display: none;
 }
 .message p {
 	font-family: 'Signika', sans-serif;
 	font-size: 30px;
 	text-transform: uppercase;
-	color: #C4515C;
+	color: #4d52b2;
 	text-shadow: 2px 2px 2px #FFF;
 	display: none;
 	font-weight: bold;
